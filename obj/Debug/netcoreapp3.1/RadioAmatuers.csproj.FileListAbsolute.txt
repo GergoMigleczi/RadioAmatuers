@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/RadioAmatuers/bin/Debug/netcoreapp3.1/RadioAmatuers.deps.json
+/Users/migleczigergo/Projects/RadioAmatuers/bin/Debug/netcoreapp3.1/RadioAmatuers.runtimeconfig.json
+/Users/migleczigergo/Projects/RadioAmatuers/bin/Debug/netcoreapp3.1/RadioAmatuers.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/RadioAmatuers/bin/Debug/netcoreapp3.1/RadioAmatuers.dll
+/Users/migleczigergo/Projects/RadioAmatuers/bin/Debug/netcoreapp3.1/RadioAmatuers.pdb
+/Users/migleczigergo/Projects/RadioAmatuers/obj/Debug/netcoreapp3.1/RadioAmatuers.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/RadioAmatuers/obj/Debug/netcoreapp3.1/RadioAmatuers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/RadioAmatuers/obj/Debug/netcoreapp3.1/RadioAmatuers.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/RadioAmatuers/obj/Debug/netcoreapp3.1/RadioAmatuers.AssemblyInfo.cs
+/Users/migleczigergo/Projects/RadioAmatuers/obj/Debug/netcoreapp3.1/RadioAmatuers.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/RadioAmatuers/obj/Debug/netcoreapp3.1/RadioAmatuers.dll
+/Users/migleczigergo/Projects/RadioAmatuers/obj/Debug/netcoreapp3.1/RadioAmatuers.pdb
+/Users/migleczigergo/Projects/RadioAmatuers/obj/Debug/netcoreapp3.1/RadioAmatuers.genruntimeconfig.cache
